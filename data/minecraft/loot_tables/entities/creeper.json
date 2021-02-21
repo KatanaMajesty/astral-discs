@@ -43,7 +43,29 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1, HideFlags:32, display:{Lore:[\"\\\"\\\\u00a77Mista Jub - Hullabaloo\\\"\"]}}"
+                            "tag": "{CustomModelData:1, HideFlags:32, display:{Name:'{\"translate\": \"disc.chimekkodiscs.hullabaloo\",\"color\":\"light_purple\",\"italic\": false}',Lore:['{\"translate\": \"disc.chimekkodiscs.hullabaloo.desc\",\"color\":\"gray\",\"italic\": false}']}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:2, HideFlags:32, display:{Name:'{\"translate\": \"disc.chimekkodiscs.fox\",\"color\":\"light_purple\",\"italic\": false}',Lore:['{\"translate\": \"disc.chimekkodiscs.fox.desc\",\"color\":\"gray\",\"italic\": false}']}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "minecraft:music_disc_11",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:3, HideFlags:32, display:{Name:'{\"translate\": \"disc.chimekkodiscs.epilogue\",\"color\":\"light_purple\",\"italic\": false}',Lore:['{\"translate\": \"disc.chimekkodiscs.epilogue.desc\",\"color\":\"gray\",\"italic\": false}']}}"
                         }
                     ]
                 }

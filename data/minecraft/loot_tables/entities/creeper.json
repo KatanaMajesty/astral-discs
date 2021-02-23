@@ -31,12 +31,6 @@
             "rolls": 1,
             "entries": [
                 {
-                    "type": "minecraft:tag",
-                    "weight": 1,
-                    "name": "minecraft:creeper_drop_music_discs",
-                    "expand": true
-                },
-                {
                     "type": "minecraft:item",
                     "weight": 1,
                     "name": "minecraft:music_disc_11",
